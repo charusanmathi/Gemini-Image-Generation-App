@@ -2,8 +2,7 @@
  Excited to introduce the Gemini Image Generation App, a groundbreaking tool that combines the power of Google's Gemini 1.5 Flash Model with a simple, user-friendly interface!
 
 ## Key Features
-
-### Multi-Modal Input:
+### Multi-Modal Input:
 * Upload an image for AI analysis.
 * Optionally provide a text prompt for additional context.
 ### Dynamic Responses: Get real-time, AI-generated insights that combine image understanding with textual context.
